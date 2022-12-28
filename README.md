@@ -1,4 +1,27 @@
-- 👋 Hi, I’m Alessio Pellizzaro alias @APXc 
+# **@APXc**
+
+## Introduce myself
+Hi, I am a young Italian developer, class of 1999  
+My name is **Alessio Pellizzaro** alias **@APXc**,
+I am the owner of **Pellizzaro Development Projects** - Small Company based in Italy
+## Development in:
+ - Javascript
+ - C#
+ - Python
+ - Dart
+ - SQL 
+ - Html & CSS
+ 
+## I use the following freameworks/libraries: 
+- VueJs
+- NodeJS
+- NodeRed
+- Flutter (Mobile & Desktop)
+- Django & Django Rest Framework
+
+## I Published 
+- [VatID.Cloud](https://www.vatid.cloud/) - *European Company information Search Platform* - Developed in Javascript (VueJS & NodeJs,  Integrated for payments with Stripe and with Dolibar ERP for the accounting)
+> **Note:** **New products online** coming in 2023.
 
 <!---
 APXc/APXc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
