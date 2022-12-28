@@ -20,7 +20,7 @@ I am the owner of **Pellizzaro Development Projects** - Small Company based in I
 - Django & Django Rest Framework
 
 ## I Published 
-- [VatID.Cloud](https://www.vatid.cloud/) - *European Company information Search Platform* - Developed in Javascript (VueJS & NodeJs,  Integrated for payments with Stripe and with Dolibar ERP for the accounting)
+- [VatID.Cloud](https://www.vatid.cloud/) - *European Company information Search Platform* - Developed in Javascript (VueJS & NodeJs,  Integrated for payments with Stripe, with Dolibar ERP for the accounting and with Google Cloud for Maps API)
 > **Note:** **New products online** coming in 2023.
 
 <!---
