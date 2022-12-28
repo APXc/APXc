@@ -1,6 +1,6 @@
 # **@APXc**
 
-## Introduce myself
+## About Me
 Hi, I am a young Italian developer, class of 1999  
 My name is **Alessio Pellizzaro** alias **@APXc**,
 I am the owner of **Pellizzaro Development Projects** - Small Company based in Italy
