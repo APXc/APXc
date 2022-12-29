@@ -14,6 +14,7 @@ I am the owner of **Pellizzaro Development Projects** - Small Company based in I
  
 ## I use the following freameworks/libraries: 
 - VueJs
+- React
 - NodeJS
 - NodeRed
 - Flutter (Mobile & Desktop)
