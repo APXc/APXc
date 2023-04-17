@@ -22,8 +22,11 @@ I am the owner of **Pellizzaro Development Projects** - Small Company based in I
 
 ## I Published 
 - [VatID.Cloud](https://www.vatid.cloud/) - *European Company information Search Platform* - Developed in Javascript (VueJS & NodeJs,  Integrated for payments with Stripe, with Dolibar ERP for the accounting and with Google Cloud for Maps API)
-> **Note:** **New products online** coming in 2023.
+- [APXC Log Engine](https://log.apserial.it) - *Activity Log Cloud API Service* - - Developed in Javascript (React & NodeJs, Integrated for payments with Stripe)
 
+<!---
+> **Note:** **New products online** coming in 2023.
+--->
 <!---
 APXc/APXc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
