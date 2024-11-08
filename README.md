@@ -23,7 +23,7 @@ I am the owner of **Pellizzaro Development Projects** - Small Company based in I
 ## I Published 
 - [VatID.Cloud](https://www.vatid.cloud/) - *European Company information Search Platform* - Developed in Javascript (VueJS & NodeJs,  Integrated for payments with Stripe, with Dolibar ERP for the accounting and with Google Cloud for Maps API)
 - [APXC Log Engine](https://log.apserial.it) - *Activity Log Cloud API Service* - Developed in Javascript (React & NodeJs, Integrated for payments with Stripe)
-- [API Comuni](https://comuni.alessiopellizzaro.it/) - *FREE API for Getting a List and Details (from OpenData Service and Other) of italian municipalitys* - Developed in Javascript (React & NodeJs, integrated for user managemet on Google Firebase)
+- [API Comuni](https://comuni.alessiopellizzaro.it/) - *FREE API for Getting a List, Details and Street (from OpenData Service and Other) of italian municipalitys* - Developed in Javascript (React & NodeJs, integrated for user managemet on Google Firebase)
 
 <!---
 > **Note:** **New products online** coming in 2023.
